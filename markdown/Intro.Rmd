@@ -2,7 +2,7 @@
 title: "NBA Tomfoolery Introduction"
 author: "Jonah Barrett"
 date: "10/27/2021"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
